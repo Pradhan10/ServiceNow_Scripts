@@ -1,0 +1,1 @@
+gs.addErrorMessage('STOP!!! This is an error message');
