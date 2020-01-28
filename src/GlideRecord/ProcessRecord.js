@@ -16,3 +16,4 @@ while (incidentGR.next()){
 var gr = new GlideRecord('incident');
 gr.get('number','INC0000001');
 gr.info(gr.short_description);
+
